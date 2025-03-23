@@ -48,10 +48,10 @@ The goal of the project is to use these features to predict the critical tempera
    - Support Vector Regressor
 
 3. **Model Evaluation Metrics**
-   - Mean Absolute Error (MAE): **0.1604**
-   - Mean Squared Error (MSE): **0.0669**
-   - Root Mean Squared Error (RMSE): **0.2586**
-   - R² Score: **0.9334**
+   - Mean Absolute Error (MAE)
+   - Mean Squared Error (MSE)
+   - Root Mean Squared Error (RMSE)
+   - R² Score
 
 ## Conclusion
 - The project successfully implemented machine learning models to predict the critical temperature of superconductors.
